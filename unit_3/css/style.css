@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+
+}
+
+
+
+body {
+    background: white;
+    background-color: #B4A3FF
+    Color: #4A4369;
+    Font-size: 12pt;
+    font-family: circular;
+    font-weight: 2;
+}
