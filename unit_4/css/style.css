@@ -98,3 +98,9 @@ img{
 	display: block;
 	clear: both;
 }
+
+@media screen and (max-width:768px){
+	.navlink {
+		width: 100%;
+	}
+}
