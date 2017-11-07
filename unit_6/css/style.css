@@ -9,11 +9,11 @@
 
 body {
     background: white;
-    background-color: #E1DBFF;
+    background-color: #F6EDFF;
     color: #4A4369;
     font-size: 12px;
     font-family: "Raleway", Georgia, sans-serif;
-    font-weight: 400;
+    font-weight: 600;
 }
 img{
 	display: block;
@@ -44,6 +44,8 @@ img{
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
+	color: #3D3245;
+	font-family: serif;
 }
 #herocontent h2{
 	padding: 20px;
@@ -79,6 +81,7 @@ img{
 	display: block;
 	float: left;
 	text-align: center;
+	font-weight: 400;
 }
 .block figcaption{
 	position: absolute;
@@ -88,9 +91,18 @@ img{
 	text-align: center;
 	font-size: 44px;
 }
+#blockinfo p{	
+	font-size: 18px;
+	font-family: sans-serif;
+	text-align: left;
+	font-weight: 300;
+	padding-top: 10px;
+	padding-left:15px;
+	padding-right: 15px;
+}
 #footer{
 	padding-bottom: 10px;
-	padding-top: 10px;
+	padding-top: 50px;
 	padding-left:10px;
 	padding-right: 10px;
 	font-size: 12px;
